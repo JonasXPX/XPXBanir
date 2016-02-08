@@ -1,0 +1,6 @@
+name: XPXBanir
+main: br.com.endcraft.jonasxpx.XPXBanir
+version: 1.0
+commands:
+   banir:
+     aliases: ['xpxbanir']

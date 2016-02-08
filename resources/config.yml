@@ -1,0 +1,26 @@
+AtivarRaio: false
+Bans:
+  usandohack:
+    Comando: hack
+    Descricao: Banir Hack Permanente
+    MensagemBan: '&4Usando Hack &b[&a@player&b]'
+    MensagemAnuncio: '&c@banned foi banido para sempre por estar usando hack'
+    Tempo: 0
+    BanIP: false
+  flood:
+    Comando: flood
+    Descricao: Flood
+    MensagemBan: '&4Fazendo Flood &b[&a@player&b]'
+    MensagemAnuncio: '&c@banned foi banido por @time Horas, Motivo: Flood'
+    Tempo: 4
+  flood_Sem_Anuncio:
+    Comando: FloodNo
+    Descricao: Flood sem anuncio
+    MensagemBan: '&4Fazendo Flood &b[&a@player&b]'
+    Tempo: 4
+  divulgacao:
+    Comando: divul
+    Descricao: Divulgacao de servidores
+    MensagemBan: '&4Divulgação'
+    MensagemAnuncio: '&c@banned foi banido por divulgação por @timeH'
+    Tempo: 0
