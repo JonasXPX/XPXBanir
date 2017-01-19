@@ -1,0 +1,3 @@
+# XPXBanir
+### Permissão
+> xpxbanir.usar
